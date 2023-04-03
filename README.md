@@ -23,7 +23,7 @@ RESUME](https://drive.google.com/file/d/15xK2hW3_cj5JKeWPb8l_e6soamzwfNHm/view?u
 - 🐼 Doing my best
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
         width="40" height="40"style="max-width: 100%;"> </a>
@@ -39,7 +39,7 @@ RESUME](https://drive.google.com/file/d/15xK2hW3_cj5JKeWPb8l_e6soamzwfNHm/view?u
         width="40" height="40" style="max-width: 100%;"> </a>
 <br>
 <br>
-<h3 align="left">📊 Github Stats:</h3>
+<h4 align="left">📊 Github Stats:</h4>
  <table> 
    <tr> 
      <td> 
@@ -57,7 +57,7 @@ RESUME](https://drive.google.com/file/d/15xK2hW3_cj5JKeWPb8l_e6soamzwfNHm/view?u
  </table> 
 <br/>
 
-<h1 align="left">💬 Connect With Me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h1> 
+<h3 align="left">💬 Connect With Me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3> 
   
 <p align="left">
 <a href="https://twitter.com/a7mdsqr2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7mdsqr2" height="30" width="40" /></a>
