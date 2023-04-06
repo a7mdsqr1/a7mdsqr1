@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed El-Sayed Saqr</h1>
-<h3 align="center">Graduated from the Faculty of Engineering, A detail-oriented and diligent software engineer, interested in Data Science,
-Machine Learning, and Deep Learning, I am now focusing on developing my skills to achieve a good career path and
-pursuing a master's degree in computer engineering to further enhance my knowledge and expertise.</h3>
+<h3 align="center">Graduated from the Faculty of Engineering, A detail-oriented and diligent Communication and Electronics Engineer, interested in Data Science, Machine Learning, and Deep Learning, I am now focusing on developing my skills to achieve a good career path and pursuing a master's degree in computer engineering to further enhance my knowledge and expertise..</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a7mdsqr1&label=Profile%20views&color=0e75b6&style=flat" alt="a7mdsqr1" />
 		   <img src="https://img.shields.io/github/followers/a7mdsqr1?label=Followers" alt="a7mdsqr1" />
