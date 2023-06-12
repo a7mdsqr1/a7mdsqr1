@@ -11,8 +11,8 @@
     width=250px />
 <p align="left"> <a href="https://twitter.com/a7mdsqr2" target="blank"><img src="https://img.shields.io/twitter/follow/a7mdsqr2?logo=twitter&style=for-the-badge" alt="a7mdsqr2" /></a> </p>
 
-- :school: I am a `Communications and electronics engineering Fresh Graduate` from Delta Higher Institute for Engineering & Technology at Mansoura.
-- 🔭 I’m currently working Scientific researcher on Delta Higher Institute for Engineering & Technology
+- :school: I am a `Communications and electronics engineering` from Delta Higher Institute for Engineering & Technology at Mansoura.
+- 🔭 I’m currently working as a Demonstrator on Delta Higher Institute for Engineering & Technology
 - 🌱 I’m currently learning `MSc in Computer Engineering` and 'ML & DL'&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif"
     width="36px"> <br>
 - 📫 How to reach me **a7mdsqr@outlook.com**
