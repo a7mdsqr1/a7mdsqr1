@@ -13,7 +13,7 @@
 
 - :school: I am a `Communications and electronics engineering` from Delta Higher Institute for Engineering & Technology at Mansoura.
 - 🔭 I’m currently working as a Demonstrator on Delta Higher Institute for Engineering & Technology
-- 🌱 I’m currently learning `MSc in Computer Engineering` and 'ML & DL'&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif"
+- 🌱 I’m currently learning `MSc in Computer Engineering`&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif"
     width="36px"> <br>
 - 📫 How to reach me **a7mdsqr@outlook.com**
 - :thinking: I’m currently open for: new `job opportunity`, this is [MY
